@@ -42,7 +42,7 @@ int main()
     int code;
     scanf("%d", &code);
 
-    switch (check)
+    switch (code)
     {
     case 1:
         addition(int1, int2);
